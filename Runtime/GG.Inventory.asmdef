@@ -1,0 +1,17 @@
+{
+    "name": "GG.Inventory",
+    "rootNamespace": "GalaxyGourd.Inventory",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:4b9c6ca46d1a8471fa45a1c42b786a1d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

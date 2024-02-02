@@ -1,0 +1,14 @@
+{
+  "name": "com.galaxygourd.inventory",
+  "version": "1.0.0",
+  "displayName": "GourdInventory",
+  "description": "Dynamic free-placement grid inventory system.",
+  "author": {
+    "name": "Michael Stephens",
+    "email": "mstephens.dev@gmail.com",
+    "url" : "http://www.mstephensdev.com/" 
+  },
+  "dependencies": {
+    "com.galaxygourd.grid": "https://github.com/mjstephens/GourdGrid.git"
+  }
+}
